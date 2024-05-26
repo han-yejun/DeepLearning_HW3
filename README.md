@@ -447,4 +447,5 @@
         Epoch 9/10, LSTM Training Loss: 1.0183, Validation Loss: 1.0338
         Epoch 10/10, LSTM Training Loss: 0.9996, Validation Loss: 1.0167
 
-![LeNet5 - Loss & Accuracy](https://github.com/han-yejun/DeepLearning_HW2/blob/main/LeNet5%20-%20Loss%20%26%20Accuracy.png)
+![Training and Validation Loss for RNN and LSTM]([https://github.com/han-yejun/DeepLearning_HW2/blob/main/LeNet5%20-%20Loss%20%26%20Accuracy.png](https://github.com/han-yejun/DeepLearning_HW3/blob/main/Training%20and%20Validation%20Loss%20for%20RNN%20and%20LSTM.png)
+
